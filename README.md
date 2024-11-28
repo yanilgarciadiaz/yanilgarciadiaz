@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python based on AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: yanilgarciadiaz@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a creative girl that loves learning about anything always
 <!---
 yanilgarciadiaz/yanilgarciadiaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
